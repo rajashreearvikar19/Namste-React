@@ -1,0 +1,9 @@
+-created package using npm init
+-npm install -D parcel (install parcel)
+_then run file using npx (npx parcel index.html)
+-npm i react 
+-npm i react-dom
+-then remove cdn links and build app gain and check
+-It will give error React is not defined then import React and ReactDOM
+-when you do that it will give error in html script type="module"
+-it will give warning for ReactDOM then change import statement './react-dom/client'
