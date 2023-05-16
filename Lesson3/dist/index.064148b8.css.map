@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAGA","sources":["Lesson3/index.css"],"sourcesContent":["#heading{\n    color:red;\n}\n#title{\n    color: aqua;\n    background-color:beige;\n}"],"names":[],"version":3,"file":"index.064148b8.css.map","sourceRoot":"/__parcel_source_root/"}
