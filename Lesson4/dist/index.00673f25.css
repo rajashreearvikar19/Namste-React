@@ -1,0 +1,49 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo {
+  width: 150px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.nav-items > ul {
+  font-size: 18px;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  list-style: none;
+}
+
+.res-card {
+  width: 200px;
+  background-color: #f0f0f0f0;
+  margin: 5px;
+  padding: 8px;
+}
+
+.res-card :hover {
+  cursor: pointer;
+  border: 1px solid #000;
+}
+
+.res-logo {
+  height: 40%;
+  width: 100%;
+}
+
+.search {
+  padding: 10px;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.00673f25.css.map */
