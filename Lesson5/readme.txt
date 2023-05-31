@@ -1,0 +1,3 @@
+-In this lesson we have optimised code-
+-Then we strted learning about react hooks -first is usestate we tried using normal variable but as it was not changing UI so we started learning usestate we make any modification in state component it will re-render whole component again.
+-
