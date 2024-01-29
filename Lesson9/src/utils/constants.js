@@ -1,0 +1,3 @@
+export const CDN_LINK = "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
+export const LOGO_LINK = "https://thumbs.dreamstime.com/b/indian-restaurant-logo-design-authentic-traditional-continental-food-label-can-be-used-cafe-bar-restaurant-menu-vector-119566377.jpg";
+export const MENU_API="https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.965471030791193&lng=77.59644258767366&restaurantId=";
